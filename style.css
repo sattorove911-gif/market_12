@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+}
+
+.menu {
+    display: flex;
+    gap: 20px;
+}
+
+.menu a {
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+    text-decoration: none;
+    color: black;
+}
+
+.card {
+    background-color: blue;
+    border-radius: 10px;
+    padding: 10px;
+    padding-top: 100px;
+    width: 120px;
+    color: white;
+}
+
+.menu {
+    display: none;
+}
+
+.rem-btn {
+    display: none;
+}
